@@ -1,4 +1,4 @@
-﻿,Semana,Día,No.Gasto,Fecha,Razón , Costo ,Descripción
+﻿No.Registro,Semana,Día,No.Gasto,Fecha,Razón , Costo ,Descripción
 1,1,D,1,06/08/2023,Viaje ,$200.00,Regreso a Queretaro
 2,1,D,2,06/08/2023,Despensa,$51.00,Café de capsulas
 3,1,D,3,06/08/2023,Comida,$115.00,Cena sushi con LA
